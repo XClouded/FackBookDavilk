@@ -1,0 +1,64 @@
+
+apply plugin: 'android-library'
+
+dependencies {
+
+    task nativeLibsToJar(type: Zip, description: 'create a jar archive of the native libs') {
+        destinationDir file('libs')
+        baseName 'dav-libs'
+        extension 'jar'
+        from fileTree(dir: 'libs', include: '**/*.so')
+        into 'lib/'
+    }
+    nativeLibsToJar.execute()
+    
+    compile fileTree(dir: 'libs', include: '*.jar')
+    compile project(':adt:eclipse:Eclipse.app:Contents:MacOS:Users:yrguo:work:workspace:Enc')
+}
+
+android {
+    compileSdkVersion 10
+    buildToolsVersion "18.0.1"
+    defaultConfig {
+        versionCode 12
+        versionName "2.0"
+        minSdkVersion 16
+        targetSdkVersion 16
+    }
+    // task nativeLibsToJar(type: Zip, description: 'create a jar archive of the native libs') {
+    //     destinationDir file('libs')
+    //     baseName 'dav-libs'
+    //     extension 'jar'
+    //     from fileTree(dir: 'libs', include: '**/*.so')
+    //     into 'lib/'
+    // }
+
+    // tasks.withType(Compile) {
+    //     compileTask -> compileTask.dependsOn(nativeLibsToJar)
+    // }
+
+    // task copyNativeLibs(type: Copy) {
+    //     from(new File('libs')) { include '**/*.so' }
+    //     into new File(buildDir, 'native-libs')
+    // }
+
+    // tasks.withType(Compile) { 
+    //     compileTask -> compileTask.dependsOn copyNativeLibs 
+    // }
+
+    // clean.dependsOn 'cleanCopyNativeLibs'
+
+    // tasks.withType(com.android.build.gradle.tasks.PackageApplication) { 
+    //     pkgTask ->pkgTask.jniDir new File(buildDir, 'native-libs')
+    // }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+        debug.setRoot('build-types/debug')
+        release.setRoot('build-types/release')
+    }
+}

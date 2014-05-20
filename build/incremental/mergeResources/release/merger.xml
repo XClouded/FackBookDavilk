@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar" >
+        <source path="/Users/yrguo/Desktop/TestDavilk/build/exploded-bundles/DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/yrguo/Desktop/TestDavilk/build/exploded-bundles/DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/yrguo/Desktop/TestDavilk/build/exploded-bundles/DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/yrguo/Desktop/TestDavilk/build/exploded-bundles/DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/yrguo/Desktop/TestDavilk/build/exploded-bundles/DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/yrguo/Desktop/TestDavilk/build/exploded-bundles/DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/yrguo/Desktop/TestDavilk/build/exploded-bundles/DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/yrguo/Desktop/TestDavilk/build/exploded-bundles/DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar/res/values/values.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <string name="app_name" >Enc
+                </string>
+
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+
+                <string name="hello_world" >Hello world!
+                </string>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/yrguo/Desktop/TestDavilk/build/exploded-bundles/DesktopAdtEclipseEclipseAppContentsMacOSUsersYrguoWorkWorkspaceEncUnspecified.aar/res/values-sw720dp-land/values.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/yrguo/Desktop/TestDavilk/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/yrguo/Desktop/TestDavilk/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/yrguo/Desktop/TestDavilk/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/yrguo/Desktop/TestDavilk/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/yrguo/Desktop/TestDavilk/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/yrguo/Desktop/TestDavilk/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/yrguo/Desktop/TestDavilk/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/yrguo/Desktop/TestDavilk/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/yrguo/Desktop/TestDavilk/res/values/strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >TestDavilk
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="/Users/yrguo/Desktop/TestDavilk/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/yrguo/Desktop/TestDavilk/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/yrguo/Desktop/TestDavilk/build/res/rs/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/yrguo/Desktop/TestDavilk/build-types/release/res" />
+    </dataSet>
+
+</merger>

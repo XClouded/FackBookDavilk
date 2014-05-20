@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"/>
+
+</menu>
+<!-- From: file:/Users/yrguo/Desktop/adt/eclipse/Eclipse.app/Contents/MacOS/Users/yrguo/work/workspace/Enc/res/menu/main.xml -->

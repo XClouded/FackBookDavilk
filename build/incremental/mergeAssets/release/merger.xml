@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/yrguo/Desktop/TestDavilk/assets" >
+            <file
+                name="classes.zip"
+                path="/Users/yrguo/Desktop/TestDavilk/assets/classes.zip" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/yrguo/Desktop/TestDavilk/build-types/release/assets" />
+    </dataSet>
+
+</merger>

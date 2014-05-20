@@ -1,0 +1,798 @@
+{
+	productTotal : 137,
+	flag : 0,
+	productItemList : 
+	[
+		{
+			productID : 1612610,
+			productName : "北京凤山温泉度假村套票",
+			subtitle : "",
+			imageUrls : "",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "350",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 1,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 1606957,
+			productName : "快乐猩猩树上穿越门票",
+			subtitle : "",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_4545_s31519_132x88.JPG",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "280",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 2,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 1612608,
+			productName : "北京什刹海游胡同、逛王府、品冠军餐、看功夫剧组合套票",
+			subtitle : "",
+			imageUrls : "",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "238",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 3,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 63540,
+			productName : "北京大兴龙熙温泉水世界温泉票",
+			subtitle : "龙熙温泉10000平米的阳光海岸温泉水世界是一大亮点。",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/773/132x88/773_08_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "219",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "12",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 4,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 47494,
+			productName : "北京和园景逸大酒店温泉票",
+			subtitle : "",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1115/132x88/1115_38_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "215",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 1,
+				amount : "22",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 5,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 87589,
+			productName : "北京行宫国际酒店-温泉套票",
+			subtitle : "让您充分体验世界顶级的SPA文化！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_4220_s31519_132x88.JPG",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "199",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "22",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 6,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 83851,
+			productName : "云泽山庄凤凰池汤泉门票",
+			subtitle : "★集商务会议、旅游度假、休闲娱乐、民族风情、生态观光于一体的度假酒店！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_4007_s31519_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "188",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 7,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 1604343,
+			productName : "北京欢乐谷门票",
+			subtitle : "繁华都市开心地！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_3166_s31213_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "185",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 8,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 76752,
+			productName : "北京顺义瑞麟湾温泉门票",
+			subtitle : "生态自然、健康养生、高雅休闲！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_1635_s31213_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "168",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 9,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 1602270,
+			productName : "北京军都温泉门票",
+			subtitle : "★军都温泉水井，深度为3616.08米，系重碳酸钠钙镁型氟温泉！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_3579_s31519_132x88.JPG",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "158",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "22",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 10,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 83477,
+			productName : "北京浪淘沙商务会馆门票",
+			subtitle : "★集洗浴、客房、餐饮、商务、娱乐、休闲、保健养生为一体的大型高档会馆！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_3860_s31519_132x88.JPG",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "158",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 1,
+				amount : "12",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 11,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 77501,
+			productName : "通州运河苑温泉度假村温泉水世界套票",
+			subtitle : "★北京最大的温泉水上乐园！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_1750_s31519_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "155",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 12,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 81911,
+			productName : "深圳锦绣中华民俗村门票",
+			subtitle : "★ 中国旅游胜地四十佳之一，目前世界上最大的实景微缩景区！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/26/132x88/26_619_s31840_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "135",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 1,
+				amount : "8",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 13,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 1604470,
+			productName : "北京碧中海国际商务会馆门票",
+			subtitle : "★一站式综合性商务会所,星级体验心漾欢,怡享舒畅好自然！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_4405_s31519_132x88.JPG",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "129",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "17",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 14,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 78781,
+			productName : "北京国际温泉酒店温泉门票",
+			subtitle : "★曲径通幽，充斥南国风情！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_3085_s31519_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "128",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 1,
+				amount : "12",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 15,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 64769,
+			productName : "北京南宫温泉票",
+			subtitle : "休闲、娱乐、健身、戏水！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_290_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "125",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "12",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 16,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 1602471,
+			productName : "南宫民族温泉养生园温泉票",
+			subtitle : "★ 休闲、娱乐、健身、戏水！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_528_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "125",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "12",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 17,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 33161,
+			productName : "北京花水湾温泉票",
+			subtitle : "",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1115/132x88/1115_54_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "120",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "52",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 18,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 77433,
+			productName : "十渡龙湖湾拓展基地",
+			subtitle : "★激流险滩处，释放惊险刺激的豪迈情怀！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_1783_s31519_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "120",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 19,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 47746,
+			productName : "北京顺景温泉票",
+			subtitle : "★顺景温泉设有96个造型各异温泉泡池，可容纳5000人同时享用！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1104/132x88/1104_35_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "118",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 0,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 77402,
+			productName : "北京春晖园温泉门票",
+			subtitle : "★一起去泡温泉，放松心情，排毒养颜！",
+			imageUrls : "",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "108",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 1,
+				amount : "12",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 21,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 66549,
+			productName : "水立方嬉水乐园门票",
+			subtitle : "亚洲最大室内水上乐园",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_532_132x88.jpg",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "108",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 22,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 1616821,
+			productName : "渔阳迷笛音乐节门票",
+			subtitle : "",
+			imageUrls : "",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "100",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "2",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 23,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 87087,
+			productName : "阳光丽城---蝴蝶泉温泉门票",
+			subtitle : "★尊贵享受，享受生活！",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_4181_s31519_132x88.JPG",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "98",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 0,
+				amount : "22",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 24,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		},
+		{
+			productID : 63437,
+			productName : "北京郁金香摩锐水世界温泉票",
+			subtitle : "",
+			imageUrls : "http://pkgpic.ctrip.com/images3/1/1/132x88/1_1373_b03036_132x88.JPG",
+			departDateRemark : "天天出发",
+			favorableFlag : "",
+			currency : "RMB",
+			price : "98",
+			flag : 0,
+			extension : "",
+			promotionInfoModel : 
+			{
+				promotionType : 1,
+				amount : "17",
+				currency : "RMB",
+				promotionList : 
+				[
+					{
+						promotionName : "大减价",
+						promotionID : 25,
+						discount : "5",
+						realServiceCode : "20100201"
+					}
+				],
+				realServiceCode : "20100801"
+			},
+			realServiceCode : "20100101"
+		}
+	],
+	filterItemList : 
+	[
+		{
+			itemType : 2,
+			itemValueList : 
+			[
+				{
+					itemId : "",
+					itemName : "不限",
+					itemValue : 0,
+					realServiceCode : "20100101"
+				},
+				{
+					itemId : "1",
+					itemName : "北京",
+					itemValue : 136,
+					realServiceCode : "20100101"
+				},
+				{
+					itemId : "771",
+					itemName : "昌平",
+					itemValue : 5,
+					realServiceCode : "20100101"
+				},
+				{
+					itemId : "1115",
+					itemName : "顺义",
+					itemValue : 3,
+					realServiceCode : "20100101"
+				},
+				{
+					itemId : "768",
+					itemName : "密云",
+					itemValue : 3,
+					realServiceCode : "20100101"
+				},
+				{
+					itemId : "772",
+					itemName : "房山",
+					itemValue : 2,
+					realServiceCode : "20100101"
+				},
+				{
+					itemId : "769",
+					itemName : "平谷",
+					itemValue : 2,
+					realServiceCode : "20100101"
+				},
+				{
+					itemId : "770",
+					itemName : "延庆",
+					itemValue : 1,
+					realServiceCode : "20100101"
+				},
+				{
+					itemId : "26",
+					itemName : "深圳",
+					itemValue : 1,
+					realServiceCode : "20100101"
+				}
+			],
+			realServiceCode : "20100101"
+		}
+	],
+	extension : "",
+	realServiceCode : "20100101"
+}
